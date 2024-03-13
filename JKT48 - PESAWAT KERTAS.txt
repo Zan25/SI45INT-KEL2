@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Kutatap langit di pagi hari
 Kuawali hari dengan doa
 Semoga satu hari ini bisa
@@ -6,3 +7,6 @@ Walaupun terkadang hujan turun
 Dan air mata juga mengalir
 Di hari yang tak berjalan dengan mulus
 Besok pun tetap semangat
+=======
+Telkom university sinergi bangun negeri
+>>>>>>> f69d51c62be09f079d56b614b5191c9f0412c835
