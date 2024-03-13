@@ -5,6 +5,11 @@ Didalam hari-harimu Bersama lagi Semua kata rindumu semakin membuatku, tak berda
 menahan rasa ingin jumpa
 Percayalah padaku akupun rindu kamu
 Ku akan pulang, melepas semua
+<<<<<<< HEAD
 kerinduan, yang terpendam
 
 AH AH AH
+=======
+kerinduan, yang terpendam 
+hello world
+>>>>>>> 2ca18606c36a71a0051c0f2039837755dd09ee47
